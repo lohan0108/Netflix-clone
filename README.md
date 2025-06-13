@@ -9,8 +9,7 @@ A simple front-end **Netflix Clone** built using **HTML** and **CSS**. This proj
 ---
 
 ## 🌐 Live Demo
-
-[Click here to view the live project](#)  
+ 
 *(You can host it on GitHub Pages, Netlify, or Vercel)*
 
 ---
